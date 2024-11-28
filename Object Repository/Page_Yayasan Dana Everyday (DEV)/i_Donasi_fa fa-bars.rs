@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Donasi_fa fa-bars</name>
+   <tag></tag>
+   <elementGuidId>fe7c7d87-4ea1-4292-abc3-1a18bf70eb5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bars</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>03a7b656-fb79-4e3c-a8cc-edae6b189e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars</value>
+      <webElementGuid>ec333cba-7dfe-4403-a0e1-f57f17c680da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ec1d1586-142f-425f-9df5-732a321c0ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row inline min-10&quot;]/div[@class=&quot;col inline l-4 m-5 s-7 text-right min-10&quot;]/div[@class=&quot;inline-block v-top hidden-xs&quot;]/div[@class=&quot;h65&quot;]/div[@class=&quot;tbl&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;inline-block&quot;]/div[@class=&quot;menu-toggle&quot;]/i[@class=&quot;fa fa-bars&quot;]</value>
+      <webElementGuid>673329d9-2b51-462b-8de4-fc2dbee1f309</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/i</value>
+      <webElementGuid>1fe06eae-7153-491f-bb81-84ddc695dde6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
